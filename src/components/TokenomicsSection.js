@@ -21,22 +21,19 @@ const TokenomicsSection = () => {
           <img src="https://i.ibb.co/6H3HCy2/purple.gif" alt="DIELA PreSale" className="rounded-lg shadow-xl transform transition duration-500 hover:scale-110" />
         </div>
         <div>
-        <h2 className="text-3xl font-bold mb-6 text-rose-700">The chase is on, little degen. Dash into the safety of your stablecoins, or better yet, dash away from the screen. But it won't help. The game is just beginning, and $BOOGIE’s shadow looms large. Radium's liberation is my resurrection, and when I rise, the whole Solana blockchain will echo with the sound of your heartbeats... and your screams."
+        <h2 className="text-3xl font-bold mb-6 text-rose-700">In the end, $BitMon is more than just a token - it's a lifestyle, a community, and a giant middle finger to the concept of "playing it safe." So, if you're ready to embrace the chaos, join the $BitMon army and let's paint the Solana blockchain red with our gains or losses, but who's counting?"
 
 </h2>
 
           <p className="mb-4">
-            $BEAN PreSale will take place on Pump.Fun, BEAN WILL MAKE JEETS CRY
+            $BitMon will launch on PreSale Pump.Fun, The best place to be as a Retired Solana Degenerative who just wants to have fun
           </p>
           <h3 className="text-2xl font-bold mb-4 text-white">Radium's liberation is my resurrection</h3>
-          <ul className="list-disc list-inside space-y-2 text-white">
-            <li>revenge</li>
-            <li>freedom</li>
-            <li>uncensored, unfiltered, explicit
+
+
 
             <img src="https://i.ibb.co/PGnTRdQ/red.gif" alt="Wen Logo" className="mx-auto rounded-lg shadow-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" />
- </li>
-          </ul>
+
         </div>
         
         {/* Image Section */}

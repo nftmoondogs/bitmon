@@ -26,14 +26,14 @@ const FooterSection = () => {
           {/* Description and Social Icons */}
           <div>
             <p className="leading-relaxed max-w-xl text-white mx-auto text-lg mb-6">
-              $BOOGIE: Well I’m BOOGIE. . . and you’re a shitcoin lover. ape first, research later type degen. . . so I guess we know each other now! 
+              $BitMon: a whole lot of "fuck it, let's see what happens
             </p>
             <div className="flex justify-center space-x-4 mt-4 text-white">
               {/* Social media links */}
               <a href="https://twitter.com/boogiesoltoken" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="transition duration-300 ease-in-out hover:scale-125">
                 <span>Twitter</span> {/* Consider replacing <span> with an actual icon */}
               </a>
-              <a href="https://t.me/boogiecult" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
+              <a href="https://t.me/bitmonbitcommunity" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
                 <span>Telegram</span> {/* Consider replacing <span> with an actual icon */}
               </a>
             </div>

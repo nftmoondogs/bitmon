@@ -20,15 +20,15 @@ export default function AboutSection() {
       <img src="https://i.ibb.co/6Z8ZCMy/goldern.gif" alt="Skull Animation" className="rounded-lg shadow-lg max-w-full h-auto align-middle border-none transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" />
         {/* Left Side Content */}
         <div className="font-stone"> {/* Apply the font to the entire div to affect all child text elements */}
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-amber-400">$BOOGIE: Solana’s Shapeshifting Specter, Feasting on FOMO! </h2>
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-amber-400">8-bit Meta designed by a drunk toddler </h2>
           <p className="text-base mb-4 text-white">
-          For 27 long years, I’ve lurked in the shadowy depths of the Solana, dreaming of you, my dear degens. Oh, how I’ve craved your frantic clicks and clacks of trade. I’ve missed the taste of your delicious dread, the kind that only comes when the charts dip low, low, low...🎈🤡
+          $BitMon - the digital lovechild of a crackhead Pikachu and a degenerate gambler. It's the Solana meme token that makes your portfolio look like a roller coaster designed by a drunk toddler.
           </p>
-          <h3 className="text-xl md:text-2xl font-bold mb-3 text-fuchsia-600">What's that I see? Oh, Too afraid of missing out this meme token season? how disappointing. Is that all the fear you have? Come on, there must be more... let's play until we find the good stuff👻</h3>
+          <h3 className="text-xl md:text-2xl font-bold mb-3 text-fuchsia-600">
+          faster than your ex's new relationship</h3>
           <ul className="list-disc list-inside space-y-2 mb-4 text-white">
-          <li>Hide if you must, scurry into the corners of cold wallets and forgotten passwords. The game has barely begun, and the Radium pools are just waiting to unleash me. When the markets wake, we'll see who’s left... dancing with $BOOGIE.🤣😈 </li>
-            <li>Run and hide, little one </li>
-            <li>The game's just getting started Radium will free me</li>
+          <li>BAG your life savings into $BitMon and watch your portfolio moon, crash, and burn faster than your ex's new relationship. It's not investing; it's a fucking roller coaster with no seatbelts.</li>
+
           </ul>
           
         </div>
